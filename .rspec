@@ -1,3 +1,11 @@
 --color
 --format documentation
 --require spec_helper
+
+
+
+
+m1 = Artist.new('Madonna')
+
+m1.name
+
